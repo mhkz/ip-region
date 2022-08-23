@@ -1,0 +1,15 @@
+{
+  "name": "ip-region",
+  "version": "1.0.0",
+  "description": "Judging regional information through IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "region"
+  ],
+  "author": "guo_feng",
+  "license": "ISC"
+}
